@@ -20,8 +20,11 @@
 
 ## Python Version
 
-### *3.6**
+### *3.8**
 
 ## Acknowledgments
 
-* Henry Zhu
+* Ashish Choudhary
+
+# Please feel free to reach back, any comments are welcome:
+choudharyashish621@gmail.com
